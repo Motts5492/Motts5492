@@ -1,4 +1,8 @@
 ### Hi there 👋
+I like coding and engineering
+currently in coding :)
+I also like emoticons 
+;) ;D
 
 <!--
 **Motts5492/Motts5492** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
